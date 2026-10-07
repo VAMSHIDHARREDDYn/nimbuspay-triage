@@ -1,0 +1,10 @@
+# assignment data and base model must not be pushed
+candidate_pack/
+*.zip
+data/
+train*.jsonl
+dev*.jsonl
+test_inputs.jsonl
+runs/
+__pycache__/
+.ipynb_checkpoints/

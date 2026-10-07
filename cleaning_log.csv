@@ -1,0 +1,354 @@
+id,action,reason
+tr-00008,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00013,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00018,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00020,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00023,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00034,drop,"junk or empty ticket text (e.g. 'test', 'asdf') with an arbitrary label"
+tr-00045,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P1)
+tr-00049,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00058,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00059,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00060,drop,label is cut off / not valid JSON
+tr-00065,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00071,fix,txn_id not normalised ('NP-9718716109' -> 'NP9718716109')
+tr-00072,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00073,fix,amount left in rupees instead of paise (168787 -> 16878725)
+tr-00074,drop,duplicate of tr-00025 (exact or whitespace/'Thx' variant)
+tr-00077,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00086,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00095,drop,label is cut off / not valid JSON
+tr-00114,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00120,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00123,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00125,drop,label is cut off / not valid JSON
+tr-00129,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P2)
+tr-00130,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00144,fix,amount left in rupees instead of paise (167 -> 16700)
+tr-00146,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00147,fix,txn_id not normalised ('np9891267518' -> 'NP9891267518')
+tr-00151,fix,txn_id not normalised ('NP-2339259875' -> 'NP2339259875')
+tr-00153,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00154,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P2)
+tr-00156,drop,duplicate of tr-00030 (exact or whitespace/'Thx' variant)
+tr-00160,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00162,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00164,drop,"junk or empty ticket text (e.g. 'test', 'asdf') with an arbitrary label"
+tr-00167,fix,amount left in rupees instead of paise (267 -> 26700)
+tr-00172,drop,label is cut off / not valid JSON
+tr-00178,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00184,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P1)
+tr-00187,fix,amount left in rupees instead of paise (220000 -> 22000000)
+tr-00192,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00199,fix,amount left in rupees instead of paise (674 -> 67400)
+tr-00208,drop,duplicate of tr-00150 (exact or whitespace/'Thx' variant)
+tr-00211,drop,duplicate of tr-00137 (exact or whitespace/'Thx' variant)
+tr-00212,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P1)
+tr-00219,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00220,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P2)
+tr-00222,fix,amount left in rupees instead of paise (594 -> 59450)
+tr-00223,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00225,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00226,drop,duplicate of tr-00070 (exact or whitespace/'Thx' variant)
+tr-00249,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00258,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00261,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00263,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00264,fix,amount left in rupees instead of paise (702 -> 70200)
+tr-00266,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00267,drop,label is cut off / not valid JSON
+tr-00280,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00294,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P2)
+tr-00297,drop,duplicate of tr-00142 (exact or whitespace/'Thx' variant)
+tr-00306,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00307,drop,duplicate of tr-00207 (exact or whitespace/'Thx' variant)
+tr-00309,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00312,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00317,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00318,drop,"junk or empty ticket text (e.g. 'test', 'asdf') with an arbitrary label"
+tr-00320,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00328,fix,amount left in rupees instead of paise (667 -> 66750)
+tr-00330,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00340,drop,duplicate of tr-00299 (exact or whitespace/'Thx' variant)
+tr-00343,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00346,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00347,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00349,drop,duplicate of tr-00217 (exact or whitespace/'Thx' variant)
+tr-00355,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P2)
+tr-00357,drop,label is cut off / not valid JSON
+tr-00358,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00364,drop,duplicate of tr-00173 (exact or whitespace/'Thx' variant)
+tr-00365,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00370,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00373,drop,duplicate of tr-00345 (exact or whitespace/'Thx' variant)
+tr-00379,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00380,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00382,fix,amount left in rupees instead of paise (46094 -> 4609400)
+tr-00385,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00391,fix,txn_id not normalised ('NP 9255627510' -> 'NP9255627510')
+tr-00397,drop,duplicate of tr-00078 (exact or whitespace/'Thx' variant)
+tr-00407,fix,amount left in rupees instead of paise (359 -> 35900)
+tr-00413,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00420,fix,txn_id not normalised ('np 81633 47892' -> 'NP8163347892')
+tr-00424,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P1)
+tr-00427,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P1)
+tr-00436,drop,duplicate of tr-00175 (exact or whitespace/'Thx' variant)
+tr-00452,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00454,drop,duplicate of tr-00444 (exact or whitespace/'Thx' variant)
+tr-00456,drop,duplicate of tr-00079 (exact or whitespace/'Thx' variant)
+tr-00457,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00460,fix,txn_id not normalised ('NP 6949410784' -> 'NP6949410784')
+tr-00461,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00470,fix,txn_id not normalised ('np 11245 46709' -> 'NP1124546709')
+tr-00472,fix,amount left in rupees instead of paise (5815 -> 581500)
+tr-00473,drop,duplicate of tr-00009 (exact or whitespace/'Thx' variant)
+tr-00475,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00476,drop,duplicate of tr-00191 (exact or whitespace/'Thx' variant)
+tr-00478,drop,label is cut off / not valid JSON
+tr-00485,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00496,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00497,drop,label is cut off / not valid JSON
+tr-00502,drop,duplicate of tr-00323 (exact or whitespace/'Thx' variant)
+tr-00503,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00505,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00508,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00514,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00516,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00523,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00532,drop,duplicate of tr-00435 (exact or whitespace/'Thx' variant)
+tr-00533,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00534,drop,duplicate of tr-00251 (exact or whitespace/'Thx' variant)
+tr-00540,drop,duplicate of tr-00429 (exact or whitespace/'Thx' variant)
+tr-00546,drop,duplicate of tr-00490 (exact or whitespace/'Thx' variant)
+tr-00555,drop,"junk or empty ticket text (e.g. 'test', 'asdf') with an arbitrary label"
+tr-00556,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00558,drop,label is cut off / not valid JSON
+tr-00559,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00560,fix,amount left in rupees instead of paise (1100 -> 110000)
+tr-00567,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P2)
+tr-00570,fix,txn_id not normalised ('np 87267 97611' -> 'NP8726797611')
+tr-00573,drop,duplicate of tr-00203 (exact or whitespace/'Thx' variant)
+tr-00577,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00581,drop,duplicate of tr-00108 (exact or whitespace/'Thx' variant)
+tr-00583,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00585,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00588,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00589,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00595,fix,txn_id not normalised ('np3247474643' -> 'NP3247474643')
+tr-00602,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00605,drop,label is cut off / not valid JSON
+tr-00606,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00609,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00610,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00614,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00616,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00622,fix,amount left in rupees instead of paise (3702 -> 370200)
+tr-00628,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00635,drop,duplicate of tr-00115 (exact or whitespace/'Thx' variant)
+tr-00638,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P1)
+tr-00648,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P2)
+tr-00649,fix,txn_id not normalised ('NP-8919677483' -> 'NP8919677483')
+tr-00650,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00653,fix,amount left in rupees instead of paise (1179 -> 117900)
+tr-00656,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00665,drop,duplicate of tr-00322 (exact or whitespace/'Thx' variant)
+tr-00669,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00670,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00671,drop,duplicate of tr-00400 (exact or whitespace/'Thx' variant)
+tr-00674,drop,label is cut off / not valid JSON
+tr-00677,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00681,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00685,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00688,fix,amount left in rupees instead of paise (209 -> 20900)
+tr-00689,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00690,drop,duplicate of tr-00499 (exact or whitespace/'Thx' variant)
+tr-00691,fix,amount left in rupees instead of paise (678 -> 67800)
+tr-00701,drop,duplicate of tr-00384 (exact or whitespace/'Thx' variant)
+tr-00704,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00706,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P2)
+tr-00707,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P2)
+tr-00716,drop,duplicate of tr-00149 (exact or whitespace/'Thx' variant)
+tr-00717,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00727,fix,amount left in rupees instead of paise (17914 -> 1791499)
+tr-00735,drop,label is cut off / not valid JSON
+tr-00744,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00745,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00746,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P2)
+tr-00755,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00757,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00761,drop,duplicate of tr-00127 (exact or whitespace/'Thx' variant)
+tr-00765,drop,label is cut off / not valid JSON
+tr-00771,fix,txn_id not normalised ('np9038808761' -> 'NP9038808761')
+tr-00773,drop,duplicate of tr-00186 (exact or whitespace/'Thx' variant)
+tr-00778,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00782,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00783,drop,duplicate of tr-00441 (exact or whitespace/'Thx' variant)
+tr-00789,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00790,drop,"junk or empty ticket text (e.g. 'test', 'asdf') with an arbitrary label"
+tr-00791,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00794,drop,"junk or empty ticket text (e.g. 'test', 'asdf') with an arbitrary label"
+tr-00795,fix,amount left in rupees instead of paise (34300 -> 3430000)
+tr-00800,drop,duplicate of tr-00530 (exact or whitespace/'Thx' variant)
+tr-00802,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00809,drop,label is cut off / not valid JSON
+tr-00811,drop,duplicate of tr-00052 (exact or whitespace/'Thx' variant)
+tr-00820,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00822,drop,duplicate of tr-00816 (exact or whitespace/'Thx' variant)
+tr-00824,drop,label is cut off / not valid JSON
+tr-00838,fix,txn_id not normalised ('NP 6186175115' -> 'NP6186175115')
+tr-00839,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00840,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00843,drop,duplicate of tr-00479 (exact or whitespace/'Thx' variant)
+tr-00845,fix,amount left in rupees instead of paise (2999 -> 299900)
+tr-00846,drop,label is cut off / not valid JSON
+tr-00850,drop,duplicate of tr-00575 (exact or whitespace/'Thx' variant)
+tr-00852,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P1)
+tr-00854,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00861,drop,duplicate of tr-00764 (exact or whitespace/'Thx' variant)
+tr-00864,drop,duplicate of tr-00038 (exact or whitespace/'Thx' variant)
+tr-00870,drop,duplicate of tr-00099 (exact or whitespace/'Thx' variant)
+tr-00879,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00880,drop,duplicate of tr-00451 (exact or whitespace/'Thx' variant)
+tr-00888,fix,txn_id not normalised ('np7786684387' -> 'NP7786684387')
+tr-00890,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P1)
+tr-00899,fix,txn_id not normalised ('NP-1325500121' -> 'NP1325500121')
+tr-00900,drop,duplicate of tr-00432 (exact or whitespace/'Thx' variant)
+tr-00907,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00908,fix,txn_id not normalised ('np 45856 96868' -> 'NP4585696868')
+tr-00913,drop,duplicate of tr-00181 (exact or whitespace/'Thx' variant)
+tr-00920,fix,amount left in rupees instead of paise (853 -> 85300)
+tr-00922,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00932,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P2)
+tr-00933,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00936,drop,duplicate of tr-00766 (exact or whitespace/'Thx' variant)
+tr-00941,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00958,drop,label is cut off / not valid JSON
+tr-00960,drop,label is cut off / not valid JSON
+tr-00967,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-00968,drop,duplicate of tr-00239 (exact or whitespace/'Thx' variant)
+tr-00970,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-00975,drop,label is cut off / not valid JSON
+tr-00977,drop,duplicate of tr-00272 (exact or whitespace/'Thx' variant)
+tr-00978,drop,label is cut off / not valid JSON
+tr-00979,drop,label is cut off / not valid JSON
+tr-00980,drop,label is cut off / not valid JSON
+tr-00983,drop,duplicate of tr-00041 (exact or whitespace/'Thx' variant)
+tr-00985,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00986,fix,amount left in rupees instead of paise (1975 -> 197500)
+tr-00987,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-00988,drop,duplicate of tr-00617 (exact or whitespace/'Thx' variant)
+tr-00990,drop,duplicate of tr-00726 (exact or whitespace/'Thx' variant)
+tr-01000,drop,duplicate of tr-00238 (exact or whitespace/'Thx' variant)
+tr-01001,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-01006,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-01010,drop,duplicate of tr-00188 (exact or whitespace/'Thx' variant)
+tr-01011,drop,duplicate of tr-00221 (exact or whitespace/'Thx' variant)
+tr-01012,fix,txn_id not normalised ('np 78549 05014' -> 'NP7854905014')
+tr-01013,drop,duplicate of tr-00584 (exact or whitespace/'Thx' variant)
+tr-01017,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P1)
+tr-01019,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P1)
+tr-01023,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P1)
+tr-01028,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-01030,drop,duplicate of tr-00342 (exact or whitespace/'Thx' variant)
+tr-01031,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-01032,drop,"junk or empty ticket text (e.g. 'test', 'asdf') with an arbitrary label"
+tr-01033,drop,duplicate of tr-00135 (exact or whitespace/'Thx' variant)
+tr-01042,drop,duplicate of tr-00774 (exact or whitespace/'Thx' variant)
+tr-01044,drop,duplicate of tr-01016 (exact or whitespace/'Thx' variant)
+tr-01046,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-01048,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-01052,drop,duplicate of tr-00934 (exact or whitespace/'Thx' variant)
+tr-01055,drop,duplicate of tr-00259 (exact or whitespace/'Thx' variant)
+tr-01067,drop,duplicate of tr-00445 (exact or whitespace/'Thx' variant)
+tr-01070,drop,label is cut off / not valid JSON
+tr-01078,drop,duplicate of tr-00051 (exact or whitespace/'Thx' variant)
+tr-01083,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-01085,drop,duplicate of tr-00883 (exact or whitespace/'Thx' variant)
+tr-01086,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P1)
+tr-01087,drop,label is cut off / not valid JSON
+tr-01089,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-01093,drop,duplicate of tr-00408 (exact or whitespace/'Thx' variant)
+tr-01095,fix,amount left in rupees instead of paise (592 -> 59200)
+tr-01102,drop,duplicate of tr-00458 (exact or whitespace/'Thx' variant)
+tr-01104,drop,duplicate of tr-00954 (exact or whitespace/'Thx' variant)
+tr-01108,drop,duplicate of tr-00632 (exact or whitespace/'Thx' variant)
+tr-01109,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P2)
+tr-01112,drop,duplicate of tr-00057 (exact or whitespace/'Thx' variant)
+tr-01115,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-01131,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P2)
+tr-01133,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-01134,drop,duplicate of tr-00446 (exact or whitespace/'Thx' variant)
+tr-01135,drop,duplicate of tr-00686 (exact or whitespace/'Thx' variant)
+tr-01136,fix,txn_id not normalised ('NP 5804974985' -> 'NP5804974985')
+tr-01138,drop,duplicate of tr-00165 (exact or whitespace/'Thx' variant)
+tr-01139,drop,duplicate of tr-00354 (exact or whitespace/'Thx' variant)
+tr-01141,drop,duplicate of tr-00356 (exact or whitespace/'Thx' variant)
+tr-01143,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-01146,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-01151,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-01158,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-01160,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-01166,drop,"junk or empty ticket text (e.g. 'test', 'asdf') with an arbitrary label"
+tr-01170,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-01172,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-01176,drop,duplicate of tr-00148 (exact or whitespace/'Thx' variant)
+tr-01178,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-01180,drop,duplicate of tr-00997 (exact or whitespace/'Thx' variant)
+tr-01183,drop,duplicate of tr-00617 (exact or whitespace/'Thx' variant)
+tr-01186,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-01188,fix,txn_id not normalised ('np0530288495' -> 'NP0530288495')
+tr-01199,drop,label is cut off / not valid JSON
+tr-01202,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-01204,drop,duplicate of tr-00767 (exact or whitespace/'Thx' variant)
+tr-01206,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-01222,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-01238,fix,txn_id not normalised ('NP-7739480420' -> 'NP7739480420')
+tr-01239,drop,duplicate of tr-00842 (exact or whitespace/'Thx' variant)
+tr-01241,drop,duplicate of tr-01233 (exact or whitespace/'Thx' variant)
+tr-01242,drop,duplicate of tr-00362 (exact or whitespace/'Thx' variant)
+tr-01246,drop,duplicate of tr-00851 (exact or whitespace/'Thx' variant)
+tr-01248,drop,duplicate of tr-00856 (exact or whitespace/'Thx' variant)
+tr-01250,drop,duplicate of tr-01058 (exact or whitespace/'Thx' variant)
+tr-01260,drop,duplicate of tr-01054 (exact or whitespace/'Thx' variant)
+tr-01273,drop,duplicate of tr-01014 (exact or whitespace/'Thx' variant)
+tr-01274,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-01275,drop,duplicate of tr-00947 (exact or whitespace/'Thx' variant)
+tr-01286,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-01301,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-01304,drop,"junk or empty ticket text (e.g. 'test', 'asdf') with an arbitrary label"
+tr-01305,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P2)
+tr-01309,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-01311,fix,amount left in rupees instead of paise (497 -> 49799)
+tr-01313,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-01314,drop,"junk or empty ticket text (e.g. 'test', 'asdf') with an arbitrary label"
+tr-01319,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P1)
+tr-01326,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-01329,drop,duplicate of tr-00741 (exact or whitespace/'Thx' variant)
+tr-01331,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-01338,drop,duplicate of tr-00591 (exact or whitespace/'Thx' variant)
+tr-01339,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-01343,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-01348,drop,duplicate of tr-01308 (exact or whitespace/'Thx' variant)
+tr-01349,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-01350,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-01355,fix,amount left in rupees instead of paise (467 -> 46700)
+tr-01359,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-01363,fix,txn_id not normalised ('np 25586 43472' -> 'NP2558643472')
+tr-01366,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-01370,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P1)
+tr-01375,fix,amount left in rupees instead of paise (31855 -> 3185500)
+tr-01381,drop,duplicate of tr-00886 (exact or whitespace/'Thx' variant)
+tr-01386,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-01393,drop,duplicate of tr-00039 (exact or whitespace/'Thx' variant)
+tr-01398,drop,duplicate of tr-00625 (exact or whitespace/'Thx' variant)
+tr-01399,drop,duplicate of tr-00369 (exact or whitespace/'Thx' variant)
+tr-01403,fix,priority contradicts the spec rules for this category/amount/text (P3 -> P1)
+tr-01407,fix,priority contradicts the spec rules for this category/amount/text (P1 -> P3)
+tr-01409,drop,duplicate of tr-01208 (exact or whitespace/'Thx' variant)
+tr-01413,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-01419,drop,duplicate of tr-00303 (exact or whitespace/'Thx' variant)
+tr-01421,drop,same ticket as a dev row (exact or whitespace/'Thx' variant): leakage
+tr-01427,drop,duplicate of tr-01268 (exact or whitespace/'Thx' variant)
+tr-01433,drop,duplicate of tr-00896 (exact or whitespace/'Thx' variant)
+tr-01441,fix,"legacy label format (key 'prio' low/medium/high, DD/MM/YYYY date) converted to spec v2"
+tr-01443,drop,duplicate of tr-01357 (exact or whitespace/'Thx' variant)
